@@ -25,6 +25,9 @@ You need to create a github repository in this format :
 
 *   Git/Github Tutorial : [*Git/Github Complete Tutorial*](https://youtu.be/uj4fy4kpaOA)
 *   Connect with us:
-    *   Whatsapp - [*1st year Dev Groups*](https://chat.whatsapp.com/Is9TzZQAp0e3m5PFttJix2)
-    *  Discord - [*TechnoJam Discord Server*](http://bit.ly/Tj-discord)
+    * Whatsapp - [*1st year Dev Groups*](https://chat.whatsapp.com/Is9TzZQAp0e3m5PFttJix2)
+    * Discord - [*TechnoJam Discord Server*](http://bit.ly/Tj-discord)
     * Instagram - [*TechnoJam Instagram*](https://www.instagram.com/teamtechnojam/?utm_medium=copy_link)
+
+
+***For any queries, feel free to reach out to any of us in the Whatsapp or Discord groups.***
