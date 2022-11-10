@@ -20,10 +20,12 @@
 You need to create a github repository in this format :
 *   Name of the repository - **TJ-Tasks-2022-&lt;Your\_Name&gt;**
 *   You should have a compulsory **Readme.md** file describing your approach, algorithm, etc.
+*   In that **Readme.md** file, you should attach the screenshots of your final outputs of the questions/websites/app/results along with the approach as mentioned in the previous point.
 
 #### **Resources:**
 
 *   Git/Github Tutorial : [*Git/Github Complete Tutorial*](https://youtu.be/uj4fy4kpaOA)
+*   Markdown Cheat Sheet (for creating your own **Readme.md** file) : [*MD CheatSheet*](https://www.markdownguide.org/cheat-sheet/)
 *   Connect with us:
     * Whatsapp - [*1st year Dev Groups*](https://chat.whatsapp.com/Is9TzZQAp0e3m5PFttJix2)
     * Discord - [*TechnoJam Discord Server*](http://bit.ly/Tj-discord)
