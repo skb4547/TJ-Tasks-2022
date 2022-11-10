@@ -1,4 +1,9 @@
 # TechnoJam Tasks for DSA/CP Track:
+
+## Pre-requisites:
+* Basic to intermediate command in any of these programming languages - C++,Java and python.
+* The fire to learn and contribute to the community.
+
 ### Easy:
 * [Power of 2](https://leetcode.com/problems/power-of-two/)
 * [Negative-Positive Existential Crisis](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)
